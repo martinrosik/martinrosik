@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">📄 Know about my experiences:</h3>
+<h3 align="left">📄 Know about my experiences:</h3>
 
 ###
 
