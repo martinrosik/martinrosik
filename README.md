@@ -14,19 +14,19 @@
 
 ###
 
-<h2 align="left">About me 🐉</h2>
+<h2 align="left">About me 🐸</h2>
 
 ###
 
-<h3 align="left">Iam full stack developer from Slovakia.</h4>
+<h4 align="left">Iam student of computer science from Slovakia.</h4>
 
 ###
 
-<p align="left">🔭 I’m currently working on my personal website.<br>🌱 I’m currently learning Python.<br>📫 You can send me and email:<br>👨‍💻 All of my projects are available at</p>
+<p align="left">🔭 I’m currently studying computer science and doing projects in my free time.<br>🌱 I’m currently learning Python, JavaScript.<br>💻 Tech enthusiast!<br>📨 You can contact me via my email or on my socials.</p>
 
 ###
 
-<h3 align="left">📄 Know about my experiences:</h3>
+<h3 align="left">📜 Know about my experiences:</h3>
 
 ###
 
@@ -40,6 +40,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/martinthetech/martinthetech/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNxdXZ2ZW83dWtoZXJyZTlzbThjMWMwaHZ5djZvZWx4bmdrM3R6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif"  />
 </div>
 
 ###
