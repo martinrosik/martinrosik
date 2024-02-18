@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently studying computer science and doing projects in my free time.<br>🌱 I’m currently learning Python, JavaScript.<br>💻 Tech enthusiast!<br>🧩 I love watching films, reading books and drink coffee.📨 You can contact me via my email or on my socials.<br></p>
+<p align="left">🔭 I’m currently studying computer science and doing projects in my free time.<br>🌱 I’m currently learning Python, JavaScript.<br>💻 Tech enthusiast!<br>🧩 I love watching films, reading books and drink coffee.<br>📨 You can contact me via my email or on my socials.</p>
 
 ###
 
