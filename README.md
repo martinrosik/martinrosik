@@ -50,9 +50,3 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNxdXZ2ZW83dWtoZXJyZTlzbThjMWMwaHZ5djZvZWx4bmdrM3R6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/martinthetech/martinthetech/output/snake.svg" alt="Snake animation" />
-
-###
