@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently studying computer science.<br>🌱 I’m currently learning Java, PHP.<br>💻 Tech enthusiast!<br>📨 You can contact me via my email or on my socials.</p>
+<p align="left">🔭 I’m currently studying computer science.<br>🌱 I’m currently learning C.<br>💻 Tech enthusiast!<br>📨 You can contact me via my email or on my socials.</p>
 
 ###
 
