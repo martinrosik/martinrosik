@@ -14,7 +14,10 @@
 
 ###
 
-<p align="left">🔭 I’m currently studying **Computer Science**.  <br>🌱 I’m currently learning **C**, **JavaScript**, and **React**. <br>💻 Tech enthusiast who loves coding and exploring new technologies!<br>📫 How to reach me: [martinrosik12@gmail.com](mailto:martinrosik12@gmail.com)</p>
+- 🔭 I’m currently studying **Computer Science**.
+- 🌱 I’m currently learning **C**, **JavaScript**, and **React**.
+- 💻 Tech **enthusiast** who loves coding and exploring new technologies!
+- 📫 How to reach me: [martinrosik12@gmail.com](mailto:martinrosik12@gmail.com)
 
 ###
 
