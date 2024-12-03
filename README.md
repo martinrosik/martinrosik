@@ -22,7 +22,7 @@
 ---
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">📞 Connect with me</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 ---
 ###
 
-<h2 align="left">🎓 My skill set:</h2>
+<h2 align="left">📚 My skills</h2>
 
 ###
 
