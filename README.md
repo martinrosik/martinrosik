@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">With passion for coding and connecting with new people like me! 🚀💻 Always curious, constantly learning, and turning ideas into powerful code ✨.</h4>
+<h4 align="center">With passion for coding and connecting with new people like me! 🚀💻 Always curious, constantly learning, and turning ideas into powerful code ✨.</h4>
 
 ###
 
