@@ -14,15 +14,17 @@
 
 ###
 
-- 🔭 I’m currently studying **Computer Science**.
-- 🌱 I’m currently learning & getting better at **Java**, **React**, and **JavaScript**.
-- 💻 Tech **enthusiast** who loves coding and exploring new technologies!
-- 📫 How to reach me: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com)
+- 🎓 **Computer Science Student** | Learning, coding, and growing every day!
+- 🔥 Currently diving deeper into **Java**, **React**, and **JavaScript**.
+- 🚀 Tech **enthusiast** with a love for problem-solving and innovation.
+- 💡 Always eager to explore new frameworks, tools, and programming paradigms.
+- 🎯 I'm currently working towards becoming a skilled **full-stack** developer.
+- 📬 Reach out to me: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com) 
   
 ---
 ###
 
-<h2 align="left">📞 Connect with me</h2>
+<h2 align="left">🔗 Connect with Me</h2>
 
 ###
 
@@ -41,27 +43,15 @@
 ---
 ###
 
-<h2 align="left">📚 My skills</h2>
+<h2 align="left">🛠️ Languages & Tools</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,php,laravel,ts,js,mysql,postgres,mongodb,react,vue,bootstrap,tailwind,npm,vite,git&theme=dark&perline=8" />
+  </a>
+</p><br><br>
 
 ###
 
