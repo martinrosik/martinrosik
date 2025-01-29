@@ -17,7 +17,6 @@
 - 🎓 **Computer Science Student** | Learning, coding, and growing every day!
 - 🔥 Currently diving deeper into **Java**, **React**, and **JavaScript**.
 - 🚀 Tech **enthusiast** with a love for problem-solving and innovation.
-- 💡 Always eager to explore new frameworks, tools, and programming paradigms.
 - 🎯 I'm currently working towards becoming a skilled **full-stack** developer.
 - 📬 Reach out to me: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com) 
   
