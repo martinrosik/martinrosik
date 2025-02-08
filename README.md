@@ -1,12 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Martin Rosík</h1>
 
 ###
+---
 
-<h4 align="center">Welcome to my GitHub profile!</h4>
-
-###
-
-<h2 align="left">🧑🏻‍💻 About me</h2>
+<h2 align="center">🧑🏻‍💻 About me</h2>
 
 ###
 
@@ -23,30 +20,30 @@
 ---
 ###
 
-<h2 align="left">🔗 Connect with Me</h2>
+<h2 align="center">🔗 Connect with Me</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/martinrosik" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin link"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin link"  />
   </a>
   <a href="https://x.com/martin_rosik" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter link"  />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter link"  />
   </a>
   <a href="https://www.instagram.com/martin_rosik/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram link"  />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram link"  />
   </a>
 </div>
 
 ---
 ###
 
-<h2 align="left">🔧 Technologies & Tools I use</h2>
+<h2 align="center">🔧 Technologies & Tools I use</h2>
 
 ###
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,java,php,laravel,ts,js,mysql,postgres,mongodb,nodejs,nextjs,react,vue,bootstrap,tailwind,npm,vite,git,vscode&theme=dark&perline=12" />
   </a>
