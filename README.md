@@ -11,11 +11,11 @@
 
 ###
 
-- 🎓 **Computer Science Student** | Learning, coding, and growing every day!
-- 🔥 Currently diving deeper into **C**, **React**, and **JavaScript**.
-- 🚀 Tech **enthusiast** with a love for problem-solving and innovation.
-- 🎯 I'm currently working towards becoming a skilled **full-stack** developer.
-- 📬 Reach out to me: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com) 
+- 🎓 **Computer Science Student** | Passionate about learning, coding, and building impactful solutions!
+- 🔥 Currently mastering **C**, **React**, and **JavaScript** to level up my skills.
+- 🚀 Love solving problems, building stuff, and exploring new tech!
+- 🎯 On a journey to becoming a **full-stack developer**.
+- 📩 Let’s connect! Reach me at: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com) 
   
 ---
 ###
