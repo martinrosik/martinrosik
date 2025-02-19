@@ -12,7 +12,7 @@
 ###
 
 - 🎓 **Computer Science Student** | Passionate about learning, coding, and building impactful solutions!
-- 🔥 Currently mastering **C**, **React**, and **JavaScript** to level up my skills.
+- 🔥 Currently mastering **Laravel**, **React**, and **JavaScript** to level up my skills.
 - 🚀 Love solving problems, building stuff, and exploring new tech!
 - 🎯 On a journey to becoming a **full-stack developer**.
 - 📩 Let’s connect! Reach me at: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com) 
