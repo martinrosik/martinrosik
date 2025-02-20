@@ -47,12 +47,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,java,php,laravel,ts,js,mysql,postgres,mongodb,nodejs,nextjs,react,vue,bootstrap,tailwind,npm,vite,git,vscode&theme=dark&perline=12" />
   </a>
-</p><br><br>
+</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/sk/view/mario-super-mario-late-night-scrolling-computer-gif-2811457068972377182.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrosik&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="martinrosik's GitHub Stats" />
 </div>
-
-###
