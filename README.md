@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,php,laravel,ts,js,mysql,postgres,mongodb,nodejs,nextjs,react,vue,bootstrap,tailwind,npm,vite,git,vscode&theme=dark&perline=12" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrosik&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="martinrosik's GitHub Stats" />
   </a>
 </p>
 
