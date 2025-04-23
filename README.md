@@ -28,9 +28,6 @@
   <a href="https://www.linkedin.com/in/martinrosik" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin link"  />
   </a>
-  <a href="https://x.com/martin_rosik" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter link"  />
-  </a>
   <a href="https://www.instagram.com/martin_rosik/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram link"  />
   </a>
@@ -45,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,php,laravel,ts,js,mysql,postgres,mongodb,nodejs,nextjs,express,react,vue,bootstrap,tailwind,npm,vite,git,vscode,androidstudio&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,php,laravel,ts,js,mysql,postgres,mongodb,nodejs,nextjs,express,react,vue,bootstrap,tailwind,npm,vite,git,vscode,androidstudio,notion,postman&theme=dark&perline=12" />
   </a>
 </p>
 
