@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,laravel,ts,js,mysql,postgres,mongodb,nodejs,nextjs,express,react,vue,tailwind,git,vscode&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,php,laravel,ts,js,mysql,postgres,mongodb,nestjs,react,vue,tailwind,git,vscode&theme=dark&perline=12" />
   </a>
 </p>
 
