@@ -12,7 +12,7 @@
 ###
 
 - 🎓 **Computer Science Student** | Passionate about learning, coding mainly websites, and building solutions!
-- 🔥 Currently mastering **Laravel** to level up my backend skills.
+- 🔥 Currently mastering **NestJS** & **React** to level up my fullstack skills.
 - 🚀 Love solving problems, building websites, and exploring new tech!
 - 🎯 On a journey to becoming a **full-stack developer**.
 - 📩 Let’s connect! Reach me at: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com) 
