@@ -43,7 +43,7 @@ Love connecting with people who share the same enthusiasm for technology and inn
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,laravel,ts,js,mysql,postgres,mongodb,nestjs,react,vue,tailwind,git,vscode,powershell&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,laravel,ts,js,mysql,postgres,mongodb,nestjs,express,react,vue,tailwind,git,vscode,powershell&theme=dark&perline=12" />
   </a>
 </p>
 
