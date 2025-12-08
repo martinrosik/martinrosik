@@ -46,9 +46,3 @@ Love connecting with people who share the same enthusiasm for technology and inn
     <img src="https://skillicons.dev/icons?i=java,laravel,ts,js,mysql,postgres,mongodb,nestjs,express,react,vue,tailwind,git,vscode,powershell&theme=dark&perline=12" />
   </a>
 </p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrosik&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="martinrosik's GitHub Stats" />
-</div>
