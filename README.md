@@ -8,7 +8,7 @@
 ###
 
 <h4 align="center">
-🚀💻 Passionate full-stack web developer driven by building real products that solve real problems.  
+🚀💻 Passionate full-stack developer driven by building real products that solve real problems.  
 Constantly learning, iterating, and turning complex challenges into clean, scalable solutions ✨  
 Always excited to connect with people who share the same enthusiasm for technology and innovation 🤝
 </h4>
