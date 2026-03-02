@@ -8,17 +8,16 @@
 ###
 
 <h4 align="center">
-🚀💻 Passionate full-stack developer driven by building real products that solve real problems.  
-Constantly learning, iterating, and turning complex challenges into clean, scalable solutions ✨  
-Always excited to connect with people who share the same enthusiasm for technology and innovation 🤝
+Full-Stack Web & Mobile Developer 💻🚀 currently working as a junior developer with a strong passion for programming and technology.  
+📚 Motivated, friendly, and always eager to learn new things, improve my skills, and grow as a developer every day.  
+⚡ Focused on building clean, efficient solutions and continuously becoming better in what I do.
 </h4>
 
 ###
 
-- 🎓 **3rd-Year Computer Science Student** | Currently working on my Bachelor thesis.  
-- 🔥 Focused on mastering **React** to strengthen my frontend skills.  
-- 🚀 Enthusiastic about solving problems, building modern web applications, and exploring new technologies.  
-- 🎯 Driven by the goal of becoming a versatile **full-stack developer**.  
+- 🎓 **3rd-Year Computer Science Student** | Currently working on my Bachelor thesis  
+- 🔥 Deepening expertise in React and modern frontend architecture  
+- 🎯 Building toward full-stack proficiency  
 - 📩 Let’s connect: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com)  
   
 ---
@@ -43,6 +42,6 @@ Always excited to connect with people who share the same enthusiasm for technolo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,js,mysql,postgres,mongodb,nestjs,express,laravel,react,tailwind,git,vscode,powershell,pnpm,postman,vite&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,js,mysql,postgres,mongodb,nestjs,express,laravel,react,tailwind,git,vscode,powershell,pnpm,postman,vite&theme=dark&perline=10" />
   </a>
 </p>
