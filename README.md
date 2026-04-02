@@ -42,6 +42,6 @@ Full-Stack Web & Mobile Developer 💻🚀 currently working as a junior develop
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,js,mysql,postgres,mongodb,nestjs,express,laravel,react,tailwind,git,vscode,powershell,pnpm,postman,vite&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,js,mysql,postgres,mongodb,nestjs,laravel,react,tailwind,docker,git,vscode,powershell,pnpm,postman,vite&theme=dark&perline=10" />
   </a>
 </p>
