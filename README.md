@@ -23,19 +23,6 @@ Full-Stack Web & Mobile Developer, currently working as a junior developer with 
 ---
 ###
 
-<h2 align="center">Connect with Me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/martinrosik" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin link"  />
-  </a>
-</div>
-
----
-###
-
 <h2 align="center">Technologies & Tools I use</h2>
 
 ###
