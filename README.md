@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Martin Rosík</h1>
+<h1 align="center">Hi! 👋, I'm Martin Rosík</h1>
 
 ###
 ---
@@ -8,22 +8,20 @@
 ###
 
 <h4 align="center">
-Full-Stack Web & Mobile Developer, currently working as a junior developer with a strong passion for programming and technology.  
- Motivated, friendly, and always eager to learn new things, improve my skills, and grow as a developer every day.  
- Focused on building clean, efficient solutions and continuously becoming better in what I do.
+Full-Stack Developer, currently working as a Junior Developer. I enjoy learning new technologies and focus on improving my current stack while also exploring modern and better technologies that can bring innovation and help build efficient systems.
 </h4>
 
 ###
 
-- **4rd-Year Computer Science Student**
-- **Growing expertise** in software architecture and software development
-- **Continuously improving** as a software engineer while exploring new technologies and building modern, impactful software
+- *1st-Year Master's Computer Science Student* 👨🏻‍💻
+- **Always looking** for opportunities to improve my skills, gain experience, and continue growing as a developer every day 🤖
+- **I love** films, books, movies and good cup of espresso! 🥰
 - 📩 Let’s connect: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com)  
   
 ---
 ###
 
-<h2 align="center">Technologies & Tools I use</h2>
+<h2 align="center">What i use everyday</h2>
 
 ###
 
