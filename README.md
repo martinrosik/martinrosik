@@ -15,7 +15,7 @@ Full-Stack Developer, currently working as a Junior Developer. I enjoy learning 
 
 - *1st-Year Master's Computer Science Student* 👨🏻‍💻
 - **Always looking** for opportunities to improve my skills, gain experience, and continue growing as a developer every day 🤖
-- **I love** films, books, movies and good cup of espresso! 🥰
+- **I love** movies, books and good cup of espresso! 🥰
 - 📩 Let’s connect: [m.rosik.contact@gmail.com](mailto:m.rosik.contact@gmail.com)  
   
 ---
