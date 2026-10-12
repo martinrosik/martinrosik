@@ -27,6 +27,6 @@ Full-Stack Developer, currently working as a Junior Developer. I enjoy learning 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,js,mysql,postgres,mongodb,nestjs,laravel,react,tailwind,docker,git,vscode,powershell,pnpm,postman,vite&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,mysql,mongodb,nestjs,laravel,react,vue,tailwind,docker,git,vscode,powershell,pnpm,postman,vite&theme=dark&perline=10" />
   </a>
 </p>
